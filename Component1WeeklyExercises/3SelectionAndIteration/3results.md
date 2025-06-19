@@ -6,7 +6,7 @@
 2 Rock, Paper, Scissors  -- todo  
 3 String Reverser -- todo  
 4 Punctuation Marks -- todo  
-Please replace **todo** with **complete**  
+Please replace **todo** with **complete** when done.
 Record your progress on the [OOP form](https://forms.gle/RiMroDpV1c1CTbHV9)
 ---
 

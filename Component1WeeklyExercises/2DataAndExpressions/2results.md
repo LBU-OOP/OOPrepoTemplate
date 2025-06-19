@@ -8,7 +8,7 @@
 4 Square Calculations   -- todo  
 5 Fraction   -- todo  
 
-Please replace **todo** with **complete**  
+Please replace **todo** with **complete** when done.
 Record your progress on the [OOP form](https://forms.gle/RiMroDpV1c1CTbHV9)
 ---
 

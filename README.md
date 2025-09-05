@@ -25,5 +25,7 @@ By the end you will have a complete set of projects for the exercises and a proj
 For each project you should update results.md file and show the output of your project.
 This portfolio is marked and therefore needs to follow these instructions exactly or you will lose marks.
 
+Each time you complete an exercise you must [record it on the Form](https://forms.gle/RiMroDpV1c1CTbHV9), the link is here and on each week's results sheet. This alerts us to the fact that you need something to be marked. Don't forget to click "submit" at the bottom.
+
 By submitting this work you are confirming that the work in this repo is your own, with all credit given to any sources of help. Such sources might include software tools, any use of AI.
 You also confirm that you have read and understood the regulations relating to academic misconduct.

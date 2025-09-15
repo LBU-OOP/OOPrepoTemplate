@@ -7,7 +7,7 @@
 3 Pin Encryption  --todo  
 4 Sphere Calculations --todo
 
-Please replace ${\color{green}-- todo}$ with ${\color{blue}-- completed}$ once done.
+Replace **todo** with **complete** once done.
 Record your progress on the [OOP form](https://forms.gle/RiMroDpV1c1CTbHV9)
 ---
 
